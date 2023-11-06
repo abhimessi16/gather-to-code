@@ -1,13 +1,13 @@
 
 import './App.css'
-import NavigationBar from './Components/Navigations/NavigationBar'
+import NavigationHeader from './Components/Navigations/NavigationHeader'
 import NavigationFooter from './Components/Navigations/NavigationFooter'
 
 function App() {
 
   return (
     <>
-      <NavigationBar />
+      <NavigationHeader />
       <NavigationFooter />
     </>
   )

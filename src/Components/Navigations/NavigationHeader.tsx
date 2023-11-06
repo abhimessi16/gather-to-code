@@ -1,7 +1,7 @@
 
 import { Link, Navbar, NavbarBrand, NavbarItem } from "@nextui-org/react"
 
-const NavigationBar = () => {
+const NavigationHeader = () => {
 
   const Github = import.meta.env.VITE_GITHUB_LINK
   const LinkedIn = import.meta.env.VITE_LINKEDIN_LINK
@@ -30,4 +30,4 @@ const NavigationBar = () => {
   )
 }
 
-export default NavigationBar
+export default NavigationHeader
