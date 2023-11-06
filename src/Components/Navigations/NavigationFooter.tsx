@@ -11,7 +11,7 @@ const NavigationFooter = () => {
         This is an initiative by Bhyrava Abhilas
         <br />
         All rights reserved
-        <br />git aa
+        <br />
         <Link href={Github} target="_blank" aria-label="Github" className="text-xs px-2">
             github
         </Link>
