@@ -16,13 +16,13 @@ const NavigationHeader = () => {
           </NavbarBrand>
           <NavbarItem>
               <Link href={Github} aria-label="Github" target="_blank"
-                className="m-2 p-2 bg-default-50 border-1 border-gray-500 rounded-full cursor-pointer hover:bg-default-200 action:bg-default-300">
+                className="m-2 p-2 bg-default-50 border-1 border-home rounded-full cursor-pointer hover:bg-default-200 action:bg-default-300">
                   <img src="/github.svg" alt="Github" />
               </Link>
           </NavbarItem>
           <NavbarItem>
               <Link href={LinkedIn} aria-label="LinkedIn" target="_blank"
-                className="m-2 p-2 bg-default-50 border-1 border-gray-500 rounded-full cursor-pointer hover:bg-default-200 action:bg-default-300">
+                className="m-2 p-2 bg-default-50 border-1 border-home rounded-full cursor-pointer hover:bg-default-200 action:bg-default-300">
                   <img src="/linkedin.svg" alt="Github" />
                 </Link>
           </NavbarItem>

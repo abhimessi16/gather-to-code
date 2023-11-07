@@ -6,7 +6,7 @@ const NavigationFooter = () => {
     const LinkedIn = import.meta.env.VITE_LINKEDIN_LINK
 
     return (
-    <div className="text-gray-400 flex flex-row items-center justify-center border-t-1 p-2">
+    <div className="p-2 text-gray-400 flex flex-row items-center justify-center border-t-1">
         <p className="text-xs text-center">
         This is an initiative by Bhyrava Abhilas
         <br />
