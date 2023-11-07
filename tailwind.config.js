@@ -12,7 +12,7 @@ export default {
       colors: {
         home: "#423adb",
         consumer: "#0097b2",
-        producer: ""
+        producer: "#8c52ff"
        }
     },
   },

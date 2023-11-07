@@ -8,7 +8,7 @@ const CreateSession = () => {
                 Create a new session for your gathering<br/>
                 to Code!
             </p><br/>
-            <Button variant="bordered" className="">Create</Button>
+            <Button variant="bordered" className="border-home font-medium">Create</Button>
         </div>
     )
 }
