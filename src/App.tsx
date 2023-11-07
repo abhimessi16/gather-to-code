@@ -2,14 +2,14 @@
 import './App.css'
 import NavigationHeader from './Components/Navigations/NavigationHeader'
 import NavigationFooter from './Components/Navigations/NavigationFooter'
-import CreateSession from './Components/Sessions/CreateSession'
+import LogSession from './Components/Sessions/LogSession'
 
 function App() {
 
   return (
     <>
       <NavigationHeader />
-      <CreateSession />
+      <LogSession />
       <NavigationFooter />
     </>
   )
